@@ -66,3 +66,12 @@ pip install -r requirements.txt
    - Use the 🚀 emoji for quick scanning  
    - Separate local vs cloud options clearly  
 
+Run the App
+streamlit run googemi2.py
+➡️ Access at: http://localhost:8501
+
+🛠️ Commands Cheat Sheet
+Command	Action
+pip install pandas	Install pandas
+streamlit run googemi2.py	Launch app
+Ctrl+C	Stop the app
